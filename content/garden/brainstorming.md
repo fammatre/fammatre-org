@@ -1,6 +1,6 @@
 ---
-title: Jon's Garden Notes
-url: /jons-garden-notes
+title: Garden Brainstorming
+url: /jons-garden-notes/brainstorming
 ---
 
 This page is just for brainstorming ideas for Fammatre's garden program.
@@ -46,7 +46,7 @@ This page is just for brainstorming ideas for Fammatre's garden program.
 - Indoor germination
 - Pest control (e.g. adding crushed egg shells)
 
-## Edible plants
+## Ideas for Edible plants
 
 - Carrots
 - Cherries
@@ -59,7 +59,7 @@ This page is just for brainstorming ideas for Fammatre's garden program.
 - Sugar snap peas
 - Beans
 
-## Plants for bees
+## Ideas for Plants for bees
 
 - Lavender
 - Rosemary
