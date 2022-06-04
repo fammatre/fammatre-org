@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Fammatre"
+title = "fammatre.org"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "hugo-book"
